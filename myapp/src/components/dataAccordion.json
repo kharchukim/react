@@ -9,7 +9,7 @@
 			"headerId": "Two",
 			"question": "Вопрос 2",
 			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
-			"expanded": true
+			"expanded": false
 		},
 		{
 			"headerId": "Three",

@@ -8,8 +8,8 @@ function Footer() {
     <footer>
       <div className="container">
         <div className="row">
-          <p className="col-11">Copyright</p>
-          <div className="col-1">
+          <p className="col-10 col-md-11">Copyright</p>
+          <div className="col-2 col-md-1">
             <Logo />
           </div>
         </div>
